@@ -26,3 +26,11 @@ p{
 #quoteBox .quoteContent img{
     width: 17%;
 }
+@media only screen and (max-width:767px) {
+    h1{
+        font-size: 4rem;
+    }
+    #quoteBox .quoteContent img{
+        width: 50%;
+    }
+}
